@@ -8,7 +8,7 @@ import java.util.Random;
 
 public class QuickSelect {
     public static void main(String[] args) {
-        int array[] = {5,2,1,4,8,3,-1, -2};
+        int array[] = {5,2,1,4,8,3,-1,-2,9};
 
         // k: k-th lowest or highest number
         // Lowest: "le"
