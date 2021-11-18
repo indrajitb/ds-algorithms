@@ -1,4 +1,4 @@
-package com.indrajitb.algorithms;
+package com.indrajitb.algorithms.TowersOfHanoi;
 
 /***
  Created by Indrajit Bhattacharya on 16/11/21

@@ -1,4 +1,4 @@
-package com.indrajitb.algorithms;
+package com.indrajitb.algorithms.NQueensProblem;
 
 import java.util.Scanner;
 

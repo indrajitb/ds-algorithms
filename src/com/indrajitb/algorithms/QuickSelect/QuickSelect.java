@@ -1,4 +1,4 @@
-package com.indrajitb.algorithms;
+package com.indrajitb.algorithms.QuickSelect;
 
 /***
  Created by Indrajit Bhattacharya on 16/11/21
