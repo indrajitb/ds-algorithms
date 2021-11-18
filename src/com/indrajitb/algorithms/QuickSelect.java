@@ -13,7 +13,7 @@ public class QuickSelect {
         // k: k-th lowest or highest number
         // Lowest: "le"
         // Highest: "gt"
-        int n = quickSelect(array, 0, array.length - 1, "le", 1);
+        int n = quickSelect(array, 0, array.length - 1, "gt", 2);
 
         System.out.println(n);
     }
